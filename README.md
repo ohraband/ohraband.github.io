@@ -12,6 +12,8 @@ We do **not** collect or track any personal information automatically.
 - You may create an account using your email and password.
 - This information is only used to allow you to log in.
 - You can delete your account at any time, and all associated data will be permanently removed.
+- The reccomended method of deletion is by selecting delete account **in the app**.
+- If you prefer, you can also email us at ohraband@cvut.cz to request account deletion. This process is **manual** and may take longer than deleting in the app.
 
 ## Photos
 - You can upload photos to the app.
