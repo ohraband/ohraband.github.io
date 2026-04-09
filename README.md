@@ -1,7 +1,4 @@
-# ohraband.github.io
-CVUT Guessr Privacy policy
-
-# Privacy Policy
+# CVUT Guessr Privacy policy
 
 **Last updated:** April 9, 2026
 
